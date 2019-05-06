@@ -7,6 +7,7 @@ public class test02 {
 		System.out.println("hello ,i am lieyuanren@@@@");
 		System.out.println("hello ,i am lieyuanren@@@@");
 		System.out.println("hello ,i am lieyuanren@@@@");
+		//===============================================
 		
 	}
 }	
